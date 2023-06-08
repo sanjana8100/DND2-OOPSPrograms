@@ -1,0 +1,15 @@
+C:\Users\INS 5570\source\repos\DND2-OOPSPrograms\DND2-OOPSPrograms\bin\Debug\net6.0\DND2-OOPSPrograms.exe
+C:\Users\INS 5570\source\repos\DND2-OOPSPrograms\DND2-OOPSPrograms\bin\Debug\net6.0\DND2-OOPSPrograms.deps.json
+C:\Users\INS 5570\source\repos\DND2-OOPSPrograms\DND2-OOPSPrograms\bin\Debug\net6.0\DND2-OOPSPrograms.runtimeconfig.json
+C:\Users\INS 5570\source\repos\DND2-OOPSPrograms\DND2-OOPSPrograms\bin\Debug\net6.0\DND2-OOPSPrograms.dll
+C:\Users\INS 5570\source\repos\DND2-OOPSPrograms\DND2-OOPSPrograms\bin\Debug\net6.0\DND2-OOPSPrograms.pdb
+C:\Users\INS 5570\source\repos\DND2-OOPSPrograms\DND2-OOPSPrograms\obj\Debug\net6.0\DND2-OOPSPrograms.csproj.AssemblyReference.cache
+C:\Users\INS 5570\source\repos\DND2-OOPSPrograms\DND2-OOPSPrograms\obj\Debug\net6.0\DND2-OOPSPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INS 5570\source\repos\DND2-OOPSPrograms\DND2-OOPSPrograms\obj\Debug\net6.0\DND2-OOPSPrograms.AssemblyInfoInputs.cache
+C:\Users\INS 5570\source\repos\DND2-OOPSPrograms\DND2-OOPSPrograms\obj\Debug\net6.0\DND2-OOPSPrograms.AssemblyInfo.cs
+C:\Users\INS 5570\source\repos\DND2-OOPSPrograms\DND2-OOPSPrograms\obj\Debug\net6.0\DND2-OOPSPrograms.csproj.CoreCompileInputs.cache
+C:\Users\INS 5570\source\repos\DND2-OOPSPrograms\DND2-OOPSPrograms\obj\Debug\net6.0\DND2-OOPSPrograms.dll
+C:\Users\INS 5570\source\repos\DND2-OOPSPrograms\DND2-OOPSPrograms\obj\Debug\net6.0\refint\DND2-OOPSPrograms.dll
+C:\Users\INS 5570\source\repos\DND2-OOPSPrograms\DND2-OOPSPrograms\obj\Debug\net6.0\DND2-OOPSPrograms.pdb
+C:\Users\INS 5570\source\repos\DND2-OOPSPrograms\DND2-OOPSPrograms\obj\Debug\net6.0\DND2-OOPSPrograms.genruntimeconfig.cache
+C:\Users\INS 5570\source\repos\DND2-OOPSPrograms\DND2-OOPSPrograms\obj\Debug\net6.0\ref\DND2-OOPSPrograms.dll
