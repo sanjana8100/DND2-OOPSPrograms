@@ -2,7 +2,7 @@
 {
     internal class StudentAndTeacherTest
     {
-        static void Main(string[] args)
+        public void studentAndTeacherTest()
         {
             bool debug = false;
 
